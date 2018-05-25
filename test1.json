@@ -1,15 +1,20 @@
-{ "report": {
-    "status": [ 
-      { "teams": "tax-online",
-        "total:count": 10,
-         "total:sum": "0:22:34",
-        "users": "Sid.Salunke@myob.com"
-      },
-      { "teams": "platform-enablement",
-        "total:count": 22,
-        "total:sum": "0:12:34",
-        "users": "aaron.cai@myob.com"
-      }
+{
+    "bk-report": 1234,
+    "values": [
+        {
+            "teams": "tax-online",
+            "build_avg": "1:21:31",
+            "build_count": 1
+        },
+        {
+            "teams": "platform-enablement",
+            "build_avg": "2:11:31",
+            "build_count": 2
+        },
+        {
+            "teams": "betelgeuse",
+            "build_avg": "0:21:31",
+            "build_count": 3
+        }
     ]
-  }
 }
