@@ -1,20 +1,20 @@
 {
-    "counter": 1234,
+    "bk-report": 1234,
     "values": [
         {
-            "id": "id-A",
-            "count": 1,
-            "state": "ACTIVE"
+            "teams": "tax-online",
+            "build_avg": "1:21:31",
+            "build_count": 1
         },
         {
-            "id": "id-B",
-            "count": 2,
-            "state": "INACTIVE"
+            "teams": "platform-enablement",
+            "build_avg": "2:11:31",
+            "build_count": 2
         },
         {
-            "id": "id-C",
-            "count": 3,
-            "state": "ACTIVE"
+            "teams": "betelgeuse",
+            "build_avg": "0:21:31",
+            "build_count": 3
         }
     ]
 }
