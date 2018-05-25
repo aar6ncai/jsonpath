@@ -1,12 +1,12 @@
 { "report": {
     "status": [ 
       { "teams": "tax-online",
-        "total:avg": "0:05:38",
+        "total:count": 10,
          "total:sum": "0:22:34",
         "users": "Sid.Salunke@myob.com"
       },
       { "teams": "platform-enablement",
-        "total:avg": "0:35:38",
+        "total:count": 22,
         "total:sum": "0:12:34",
         "users": "aaron.cai@myob.com"
       }
