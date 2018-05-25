@@ -2,15 +2,15 @@
     "values": [
         {
         "teams": "tax-online",
-        "total:count": 11,
-        "total:sum": "0:22:34",
+        "total_count": 11,
+        "total_sum": "0:22:34",
         "users": "Sid.Salunke@myob.com"
         },
         {
         "teams": "platform-enablement",
-        "total:count": 22,
-        "total:sum": "0:12:34",
+        "total_count": 22,
+        "total_sum": "0:12:34",
         "users": "aaron.cai@myob.com"
-        },
+        }
     ]
 }
