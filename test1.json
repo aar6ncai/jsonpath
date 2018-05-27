@@ -1,20 +1,5 @@
 {
-    "bk-report": 1234,
-    "values": [
-        {
-            "teams": "tax-online",
-            "build_avg": "1:21:31",
-            "build_count": 1
-        },
-        {
-            "teams": "platform-enablement",
-            "build_avg": "2:11:31",
-            "build_count": 2
-        },
-        {
-            "teams": "betelgeuse",
-            "build_avg": "0:21:31",
-            "build_count": 3
-        }
-    ]
+   "pipeline_total_number": 4321,
+   "build_total_number": 1234,
+   "build_total_failed_count": 99 
 }
